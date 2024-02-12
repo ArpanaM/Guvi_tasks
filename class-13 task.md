@@ -15,7 +15,10 @@
 
 # Creating Freestyle Project
 
-![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/5e84afde-97d2-42d6-a049-e37292dd1436)
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/2f4dd413-096c-4557-9cc3-3ffd01c98239)
+
+
 
 
 
