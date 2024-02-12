@@ -22,9 +22,16 @@
 
   ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/6dac2587-05d4-4b97-afb2-c33cf1f4ffb0)
 
-  # Prject successfully build with status success
+  # Project successfully build with status success
 
   ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/557ab07c-a992-4cb9-908b-4a179697bee7)
+
+  # Able to access the application using public ip with 8000 port
+
+  ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/5a678cd5-41dc-47dc-8d42-e526a4339983)
+
+  
+
 
   
 
