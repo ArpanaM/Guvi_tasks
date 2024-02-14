@@ -6,7 +6,7 @@
 
 # for loop
 
-[image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/77cf0052-032a-4fed-828a-75d25d8f092f)
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/3cccd780-ec1a-42b0-806f-7c69ab8500be)
 
 
 # output
