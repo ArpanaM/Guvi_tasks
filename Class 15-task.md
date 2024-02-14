@@ -10,6 +10,10 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/4e9f9522-3227-45af-89b2-5d6fd4a7a259)
 
+# Systeminfo
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/c0ef840c-e979-457c-8d4f-01f119a368f4)
+
 
 
 
