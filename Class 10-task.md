@@ -19,6 +19,10 @@
 
 # Create Dockerfile and build it
 
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/774a2788-46ef-4107-bb07-759393c36157)
+
+# Dockerfile build 
+
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/7f293011-a0ea-425e-94aa-ec2ea1cb2cb8)
 
 
