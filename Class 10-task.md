@@ -30,6 +30,17 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/b0e5d23d-a5eb-4201-9116-d50b6438499f)
 
+# Docker Run command
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/513006b4-72c2-4526-8150-524e8113a96a)
+
+# App is running on the port no 5000
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/bfbf0f8b-9a8a-4b45-ba87-53f5e9e6f761)
+
+
+
+
 
 
 
