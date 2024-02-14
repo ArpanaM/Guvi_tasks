@@ -24,7 +24,11 @@
 
 
 
-# do loop
+# for loop
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/dc3028ea-671a-4092-aed2-2d3fe0311e10)
+
+
 
 
 
