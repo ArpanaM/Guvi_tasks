@@ -13,6 +13,11 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/b493b148-bcd9-44d1-9a7c-0febff0333c7)
 
+# get into the project folder and remove Dockerfile
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/4b49363b-33c6-4054-aa42-10504a9889ac)
+
+
 
 
 
