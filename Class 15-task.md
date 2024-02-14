@@ -6,6 +6,12 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/ecadf7bc-0978-4221-8a17-1e97402eda8e)
 
+# Connected to windows server
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/4e9f9522-3227-45af-89b2-5d6fd4a7a259)
+
+
+
 
 
 
