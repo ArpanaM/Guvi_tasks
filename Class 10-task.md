@@ -38,6 +38,14 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/bfbf0f8b-9a8a-4b45-ba87-53f5e9e6f761)
 
+# Open port 5000 in security groups
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/c3a6e236-ab71-4ac0-85fe-82cd6c021ee2)
+
+# Launch application using port 5000
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/818f075d-9098-47da-8da9-c9ef0e0945ad)
+
 
 
 
