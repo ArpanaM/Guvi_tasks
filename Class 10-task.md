@@ -26,6 +26,11 @@
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/7f293011-a0ea-425e-94aa-ec2ea1cb2cb8)
 
 
+# Docker images created in EC2 machine
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/b0e5d23d-a5eb-4201-9116-d50b6438499f)
+
+
 
 
 
