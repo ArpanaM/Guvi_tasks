@@ -50,6 +50,11 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/5a8376c4-180a-48fa-bcfd-380a788f5e2a)
 
+# list volumes
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/fc94b1d3-3c44-4270-b777-ba6d62d24f12)
+
+
 
 
 
