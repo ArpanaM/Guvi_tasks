@@ -54,6 +54,15 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/fc94b1d3-3c44-4270-b777-ba6d62d24f12)
 
+# created mydatabase ,docker file and build dockerfile
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/a44f7e1c-5cb7-4b6a-81d6-aef2e10f37bf)
+
+
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/aeb332dd-95e1-4577-8631-6fb777dd342c)
+
+
 
 
 
