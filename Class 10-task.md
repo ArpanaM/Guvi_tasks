@@ -63,6 +63,15 @@
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/aeb332dd-95e1-4577-8631-6fb777dd342c)
 
 
+# image is created
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/56c779ed-9b45-4006-984f-ef49024f49e9)
+
+
+# While creating a container attach volume.
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/baf056e8-5121-4ebc-9461-ec6c24d720d1)
+
 
 
 
