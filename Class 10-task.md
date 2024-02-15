@@ -79,6 +79,9 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/ae297f56-76ea-46cb-831d-18015a4efd03)
 
+# get inside the path and can see index.html file got added to the volume
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/3ada11ea-afcf-42ea-83fb-69b0c0bb9838)
 
 
 
