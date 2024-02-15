@@ -19,7 +19,8 @@
 
 # Create Dockerfile and build it
 
-![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/774a2788-46ef-4107-bb07-759393c36157)
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/a5ff109f-c43b-43b7-8bf1-06ed49c8aad7)
+
 
 # Dockerfile build 
 
@@ -54,18 +55,15 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/fc94b1d3-3c44-4270-b777-ba6d62d24f12)
 
-# created mydatabase ,docker file and build dockerfile
-
-![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/a44f7e1c-5cb7-4b6a-81d6-aef2e10f37bf)
+# Create index.html
 
 
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/1b6ce233-1bf7-4a6b-98c9-b5f202bac899)
 
-![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/aeb332dd-95e1-4577-8631-6fb777dd342c)
 
 
-# image is created
 
-![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/56c779ed-9b45-4006-984f-ef49024f49e9)
+
 
 
 # While creating a container attach volume.
