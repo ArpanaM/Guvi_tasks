@@ -61,14 +61,21 @@
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/1b6ce233-1bf7-4a6b-98c9-b5f202bac899)
 
 
+# Create Dockerfile
 
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/2caaff57-d305-40a1-81bc-8869b93300a3)
+
+# Build Dockerfile 
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/f43d637d-0d4f-4787-b056-3af87d654377)
 
 
 
 
 # While creating a container attach volume.
 
-![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/baf056e8-5121-4ebc-9461-ec6c24d720d1)
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/5c8181e4-61f0-49b8-bb24-350c3bda8cf9)
+
+
 
 
 
