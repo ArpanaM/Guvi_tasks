@@ -75,6 +75,13 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/5c8181e4-61f0-49b8-bb24-350c3bda8cf9)
 
+# Find the path of volume created
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/ae297f56-76ea-46cb-831d-18015a4efd03)
+
+
+
+
 
 
 
