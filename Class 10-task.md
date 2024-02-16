@@ -84,14 +84,14 @@
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/3ada11ea-afcf-42ea-83fb-69b0c0bb9838)
 
 # Network
-# Create 2 containers
-
-![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/9b5775fc-34dc-4944-aaa6-3b924308920d)
-
 
 # create your own bridge network  
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/84326104-4321-4a6a-b15d-da98bce4b87c)
+
+# Create a container
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/bcbb7122-b054-4e22-8fea-af328fdd1db2)
 
 
 
