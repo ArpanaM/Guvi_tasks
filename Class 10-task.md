@@ -83,6 +83,13 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/3ada11ea-afcf-42ea-83fb-69b0c0bb9838)
 
+# Network
+# Create 2 containers
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/9b5775fc-34dc-4944-aaa6-3b924308920d)
+
+
+
 
 
 
