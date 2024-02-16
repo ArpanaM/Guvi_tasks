@@ -89,6 +89,9 @@
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/9b5775fc-34dc-4944-aaa6-3b924308920d)
 
 
+# create a network 
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/84326104-4321-4a6a-b15d-da98bce4b87c)
 
 
 
