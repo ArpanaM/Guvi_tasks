@@ -90,12 +90,12 @@
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/84326104-4321-4a6a-b15d-da98bce4b87c)
 
 # Create two container and add it to the network created
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/fc06d9ab-9c07-4ac5-af7d-4a500c2caf93)
 
-![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/bcbb7122-b054-4e22-8fea-af328fdd1db2)
 
 # Create another container and ping 
 
-![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/fc06d9ab-9c07-4ac5-af7d-4a500c2caf93)
+
 
 
 
