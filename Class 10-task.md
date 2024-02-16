@@ -93,7 +93,10 @@
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/fc06d9ab-9c07-4ac5-af7d-4a500c2caf93)
 
 
-# Create another container and ping 
+# Create another container in another consoe and ping the previous container 
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/925b7974-a8df-4d05-9e69-9575f2551dd8)
+
 
 
 
