@@ -16,4 +16,9 @@
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/bd1f1bb4-63a2-4e4d-bd3c-33fde2d846b1)
 
 
+# stored data in attached volume
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/38674df1-a87e-4a78-829c-516cf0dbd568)
+
+
 
