@@ -11,6 +11,9 @@
 
 
 
+# attach volume to EC2 machine(Windows)
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/bd1f1bb4-63a2-4e4d-bd3c-33fde2d846b1)
 
 
 
