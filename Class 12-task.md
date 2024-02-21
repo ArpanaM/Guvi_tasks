@@ -20,5 +20,9 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/38674df1-a87e-4a78-829c-516cf0dbd568)
 
+# snapshot created outof volume
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/d2e225be-ed74-4eff-a83a-3dab316ce617)
+
 
 
