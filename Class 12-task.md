@@ -45,5 +45,8 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/3c15c6e9-7572-4cfd-8741-f7aec2239333)
 
+# Create file system and create folders to mount volume
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/2a4b8fbd-8c5b-40df-8cea-73d8096be148)
 
 
