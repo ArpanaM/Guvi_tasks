@@ -10,3 +10,8 @@
 
 # docker hub image
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/e83a5c84-42c0-4332-81f0-abaa3276b1b4)
+
+# nginx container created
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/edafebd1-7f70-4f64-a223-248e6e68ae7f)
+
