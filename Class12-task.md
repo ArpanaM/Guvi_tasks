@@ -34,6 +34,9 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/90b0157a-90c9-4307-a204-ac4289d20506)
 
+# Pushed to Docker hub Registry
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/c05dd84a-7f88-4edb-bf54-9b9369bae595)
 
 
 
