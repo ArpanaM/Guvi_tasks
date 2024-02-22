@@ -33,5 +33,9 @@
 
 # Linux EC2 instance along with nginx webserver installed
 
+# volume with 6GB created and attached to EC2 instance
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/453fc04b-a48f-4ddd-87f1-a9c9d8be7694)
+
 
 
