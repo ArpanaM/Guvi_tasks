@@ -41,4 +41,9 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/3778af1e-fed5-4dd3-8b83-38c77fdc4351)
 
+# check if there is any file system
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/3c15c6e9-7572-4cfd-8741-f7aec2239333)
+
+
 
