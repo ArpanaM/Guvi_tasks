@@ -28,7 +28,14 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/041e66a7-d945-4849-9536-c729060e5db6)
 
-# ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/03fad4fd-125d-4294-a991-33122ec1d0bf)
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/03fad4fd-125d-4294-a991-33122ec1d0bf)
+
+#  docker push
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/90b0157a-90c9-4307-a204-ac4289d20506)
+
+
+
 
 
 
