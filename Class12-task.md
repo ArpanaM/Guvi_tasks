@@ -7,3 +7,6 @@
 # pull nginx image from doocker hub registry
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/31ef5453-a96a-438b-8594-fbf294b0e1e4)
+
+# docker hub image
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/e83a5c84-42c0-4332-81f0-abaa3276b1b4)
