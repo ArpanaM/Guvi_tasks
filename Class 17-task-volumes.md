@@ -24,7 +24,7 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/d2e225be-ed74-4eff-a83a-3dab316ce617)
 
-# created a volume available for zone ap-south-1b instances.
+# created a volume out of snapshot available for zone ap-south-1b instances.
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/990c6265-cbae-453a-98eb-fe7931eb8b10)
 
