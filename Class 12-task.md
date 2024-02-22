@@ -37,5 +37,8 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/453fc04b-a48f-4ddd-87f1-a9c9d8be7694)
 
+# attached but not mounted
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/3778af1e-fed5-4dd3-8b83-38c77fdc4351)
 
 
