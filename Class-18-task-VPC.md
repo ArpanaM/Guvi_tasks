@@ -13,6 +13,7 @@
 
 # ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/925f56e9-547f-497c-9371-08b7e4793357)
 
+ # launch a Linux EC2 instance by using the above vpc and public subnet.
 
 
 
