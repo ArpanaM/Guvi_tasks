@@ -3,4 +3,9 @@
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/f3fb6d38-2930-490e-9d7b-7fe1f30910a8)
 
 
-# Creating Subnets for 256 ips one is public and one is private.
+# Creating public and private Subnets for 256 ips.
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/2879aa46-1692-471e-8e8b-a37265682249)
+
+
+
