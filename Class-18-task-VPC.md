@@ -9,5 +9,8 @@
 
 # creating route table connecting the Internet gateway and the subnets
 
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/c5981db8-adba-4eed-a1bd-e4e0a9dd9454)
+
+
 
 
