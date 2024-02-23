@@ -1,1 +1,1 @@
-
+# Create a S3 bucket, with no public access and upload files to the bucket & view the logs using Cloudwatch for the uploaded files. Launch two ec2-instances and connect it to an application load balancer, where the output traffic from the server must be a load balancer IP address"
