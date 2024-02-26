@@ -37,6 +37,10 @@
 
 # When a commit is made to your repo, automatically build must get triggered from Jenkins and the output must be shared to me via email."
 
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/f31cfa82-072e-4a88-8fb2-e6311725bd46)
+
+
+
 
 
 
