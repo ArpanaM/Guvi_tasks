@@ -39,6 +39,27 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/f31cfa82-072e-4a88-8fb2-e6311725bd46)
 
+# able to access the application
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/92b900a4-b33d-4c9a-bb20-b2cdf4ae4a75)
+
+# automatically build triggered triggered
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/ecd60661-4c2d-4f4a-ab5a-64f7b1e3ccdf)
+
+# changes Affected
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/e93dd35b-7b93-4708-bb90-bc31f4677ec7)
+
+# email triggered after updates done
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/99b0b3bf-6dbc-4714-a787-353af4e6fa6e)
+
+
+
+
+
+
 
 
 
