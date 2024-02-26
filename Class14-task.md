@@ -28,6 +28,16 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/3b16644a-61e5-469d-8142-9d0f597701c0)
 
+# Project is build and successfully mail sent.
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/dad91123-ad36-4b86-a52d-902d8fb1c26f)
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/f9a92903-513a-4dd4-8dd8-d58cc5957f57)
+
+
+# When a commit is made to your repo, automatically build must get triggered from Jenkins and the output must be shared to me via email."
+
+
 
 
 
