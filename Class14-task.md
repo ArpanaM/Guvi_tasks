@@ -24,6 +24,10 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/7b0ac61d-dd9b-4b67-9af9-4ab6ea6362a3)
 
+# edit jenkins file
+
+![Uploading image.png…]()
+
 
 
 
