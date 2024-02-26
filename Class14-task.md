@@ -20,6 +20,10 @@
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/2282dad0-3fc3-4ca6-af7d-2cf8fcfc0c3e)
 
 # Configure Email noification
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/eec16e39-de22-4561-9b04-825f01b626f8)
+
+
+
 
 
 
