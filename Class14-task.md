@@ -15,6 +15,13 @@
 
 # Configure Environment variables
 
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/27b6dd20-d8f4-4173-8087-fd102a030835)
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/2282dad0-3fc3-4ca6-af7d-2cf8fcfc0c3e)
+
+
+
+
 
 
 
