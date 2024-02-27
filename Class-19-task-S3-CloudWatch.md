@@ -11,6 +11,9 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/93a0835c-14c1-480a-90d8-6051f953b5fe)
 
+# Logs using cloudwatch for the uploaded files
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/338ae1fd-8979-4296-b8da-a374234f2e84)
 
 
 
