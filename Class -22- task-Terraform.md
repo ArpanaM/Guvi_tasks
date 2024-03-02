@@ -11,5 +11,17 @@
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/54796f8a-bcc5-48ea-a61c-90a9bad750ea)
 
 
+# Server running in Ohio
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/198edd8d-ada1-4c71-9657-51db197acfea)
+
+# Server running in N.Virginia
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/80580b40-ba82-4fa3-b879-6cecdee10084)
+
+# Terminated all resources using terraform destroy
+
+
+
 
 
