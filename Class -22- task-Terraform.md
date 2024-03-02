@@ -1,9 +1,14 @@
+# Launch Linux EC2 instances in two regions using a single Terraform file.
+
 # Install terraform in ec2(ubuntu)
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/764756ec-b40c-4c2b-bb88-eb1193b5a03e)
 
 # Install awscli and configure accesskey and secret accesskey 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/f2d1b6c4-0879-4755-b3f8-758314ba9148)
 
+# Launched 2 EC2 instances in two regions using a single terraform file
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/54796f8a-bcc5-48ea-a61c-90a9bad750ea)
 
 
 
