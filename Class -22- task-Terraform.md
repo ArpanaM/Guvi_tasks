@@ -21,6 +21,7 @@
 
 # Terminated all resources using terraform destroy
 
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/3511714c-815e-44d0-a29b-59b9a8dfe430)
 
 
 
