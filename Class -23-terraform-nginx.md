@@ -16,7 +16,8 @@
 
 # Mumbai Region
 
-![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/f3989637-09d3-4693-8e58-b08ef8c9986b)
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/026ea7fb-b269-4dbf-b6a0-ccc3d2b3f978)
+
 
 # North Virginia Region
 
