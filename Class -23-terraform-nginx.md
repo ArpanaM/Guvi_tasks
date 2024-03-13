@@ -20,7 +20,8 @@
 
 # North Virginia Region
 
-![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/866f4fa6-b4de-4b9c-87f5-3980de733fe4)
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/7bc054b0-7ecd-4a36-bd72-2a9e28a72262)
+
 
 # Accessing nginx (Mumbai) and nginx (N.Virginia)
 
