@@ -5,3 +5,8 @@
 
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/de06758b-1318-4d8d-ab4d-57e5f4e75d8c)
+
+
+# Terraform plan and Terraform Apply executed and 2 resources in 2 different regions
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/d1f018a4-3a1b-4a3f-909b-f56004894c32)
