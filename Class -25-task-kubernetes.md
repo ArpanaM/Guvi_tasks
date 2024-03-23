@@ -15,3 +15,7 @@
 # get all the services which are running inside your cluster.
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/553082d6-ac87-43a9-ae2f-98a20db51fa7)
+
+# get all name spaces
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/7fd9d0de-7638-43de-a905-37802f1a9deb)
