@@ -12,3 +12,6 @@
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/78437f20-85c7-4a29-a5a3-eb3a46758296)
 
 
+# get all the services which are running inside your cluster.
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/553082d6-ac87-43a9-ae2f-98a20db51fa7)
