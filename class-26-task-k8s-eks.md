@@ -6,7 +6,8 @@
 
 # Create cluster
 
-![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/23d6409f-153f-4274-81f0-60460eb7aa50)
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/dc52c19b-e813-4bfd-80c6-6b6fd38eb214)
+
 
 
 
