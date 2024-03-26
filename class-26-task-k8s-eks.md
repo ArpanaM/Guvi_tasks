@@ -2,14 +2,10 @@
 
 # install eksctl and kubectl
 
-![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/92f7cf33-6b63-444e-9486-924aca5c726e)
 
 # Create cluster
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/dc52c19b-e813-4bfd-80c6-6b6fd38eb214)
-
-
-
 
 # Cluster Created
 
