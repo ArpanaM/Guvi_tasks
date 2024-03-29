@@ -12,3 +12,10 @@
 # in order to access the prometheus we have to open the port number 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/c3a13b01-1374-4db6-b625-ff11a48881db)
 
+# open port number for Grafana and Node Exporter
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/88f7709b-8659-48fa-866f-04b0d62f5236)
+
+
+
+
