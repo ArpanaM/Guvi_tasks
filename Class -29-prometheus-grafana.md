@@ -9,4 +9,6 @@
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/ab951426-4b8b-4907-8aff-d6c09fa3463b)
 
 
+# in order to access the prometheus we have to open the port number 
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/c3a13b01-1374-4db6-b625-ff11a48881db)
 
