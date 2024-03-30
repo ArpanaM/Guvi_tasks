@@ -16,6 +16,13 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/88f7709b-8659-48fa-866f-04b0d62f5236)
 
+# Prometheus is accessible from the Browser
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/b7201002-2392-4ab5-8eea-efc1bf857407)
+
+
+
+
 
 
 
