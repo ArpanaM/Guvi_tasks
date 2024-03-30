@@ -33,6 +33,15 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/9b5daab3-e051-4a15-8ff3-558c41218cc6)
 
+# configured Prometheus configuration file in Monitoring machine
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/6e5d81a0-eeae-4f00-ba55-67a0a70d8bc2)
+
+# Restarted Prometheus and is up and Running
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/b91cabea-d624-4702-8ea2-d3db18b1c5a8)
+
+
+
 
 
 
