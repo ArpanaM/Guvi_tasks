@@ -46,6 +46,9 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/ee5e34e7-b720-4897-9f1b-8781b88dbeb0)
 
+# Connected to Grafana Dashboard
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/71017624-2a3e-4a3f-b669-ae6b1e3bee06)
 
 
 
