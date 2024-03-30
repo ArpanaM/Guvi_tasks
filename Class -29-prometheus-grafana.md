@@ -20,6 +20,20 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/b7201002-2392-4ab5-8eea-efc1bf857407)
 
+# Node Exporter installed
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/e7d6d12e-5221-4087-b8f3-794fa6c1dbab)
+
+
+# Node Exporter Metrix
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/5ee5363f-b589-464f-860d-fc815b5f6f61)
+
+
+
+
+
+
 
 
 
