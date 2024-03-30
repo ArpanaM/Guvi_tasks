@@ -29,6 +29,9 @@
 
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/5ee5363f-b589-464f-860d-fc815b5f6f61)
 
+# Grafana installed
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/9b5daab3-e051-4a15-8ff3-558c41218cc6)
 
 
 
