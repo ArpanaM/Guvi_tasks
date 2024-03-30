@@ -40,6 +40,14 @@
 # Restarted Prometheus and is up and Running
 ![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/b91cabea-d624-4702-8ea2-d3db18b1c5a8)
 
+# Prometheus is getting metrics now from the Target machine
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/4e0b9314-700b-4de0-a9b3-063b98b68437)
+
+![image](https://github.com/ArpanaM/Guvi_tasks/assets/68733492/ee5e34e7-b720-4897-9f1b-8781b88dbeb0)
+
+
+
 
 
 
